@@ -1,2 +1,10 @@
 # Real-time-Weather-Data-Visualizer
-Real-time Weather Data Visualizer — An interactive multi-city dashboard built with Dash &amp; Plotly. Fetches live data from OpenWeather API to display temperature, humidity, wind speed, and conditions with interactive charts, comparisons, and theme toggle.
+An interactive weather dashboard built using Dash by Plotly that fetches live weather data from the OpenWeather API for multiple cities.
+
+This tool allows users to:
+	•	Search and add any city worldwide
+	•	View current weather conditions (temperature, humidity, wind speed, description)
+	•	Explore 5-day forecast trends with interactive line and bar charts
+	•	Compare weather conditions across cities
+	•	Toggle between Light 🌞 and Dark 🌙 modes
+	•	View condition distribution per city with pie charts
